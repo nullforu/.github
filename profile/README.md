@@ -6,6 +6,8 @@
 > 
 > Null4U 내에서 진행되는 팀 프로젝트는 이 Organization에서 진행되니, Null4U 부원들은 필수적으로 가입해주시길 바랍니다.
 
+<img width="1920" height="250" alt="banner" src="https://github.com/user-attachments/assets/f119c397-99bb-4c6c-ac00-8b3393b8a755" />
+
 ## 가입 신청 방법
 
 Null4U 부장(現 보안과 11기 [김준영](https://www.linkedin.com/in/yulmwu))을 통해 직접 연락하여 가입을 요청할 수 있습니다. 직접 연락할 수 없는 경우 아래의 절차를 따라주세요.
