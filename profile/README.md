@@ -8,12 +8,12 @@
 
 <img width="1920" height="250" alt="banner" src="https://github.com/user-attachments/assets/f119c397-99bb-4c6c-ac00-8b3393b8a755" />
 
-## 가입 신청 방법
+<details>
+<summary><b>가입 신청 방법 및 안내 사항(펼치기/접기)</b></summary>
+
+<h2>가입 신청 방법</h2>
 
 Null4U 부장(現 보안과 11기 [김준영](https://www.linkedin.com/in/yulmwu))을 통해 직접 연락하여 가입을 요청할 수 있습니다. 직접 연락할 수 없는 경우 아래의 절차를 따라주세요.
-
-<details>
-<summary><b>(펼치기/접기)</b></summary>
 
 <br/>
 
@@ -29,14 +29,9 @@ Null4U 부장(現 보안과 11기 [김준영](https://www.linkedin.com/in/yulmwu
 
 <img width="1197" height="732" alt="image" src="https://github.com/user-attachments/assets/62763a5a-c4b1-42b1-a8c5-fcbadfa291ef" />
 
-</details>
-
-## Public 표시
+<h2>Public 표시</h2>
 
 기본적으로 Organization 가입 시 Private으로 표시됩니다. 프로필 등에 Organization을 Public으로 표시되도록 한다면 아래 절차를 따라주세요.
-
-<details>
-<summary><b>(펼치기/접기)</b></summary>
 
 <br/>
 
