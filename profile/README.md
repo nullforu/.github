@@ -44,3 +44,36 @@ Organizations > 오른쪽 사이드바에서 아래와 같이 변경해주세요
 <img width="1920" height="530" alt="image" src="https://github.com/user-attachments/assets/6c749854-8e0d-4ff1-a3c3-31e391101e43" />
 
 </details>
+
+<details>
+<summary><b>레포지토리 목록(펼치기/접기)</b></summary>
+
+## 레포지토리 목록
+
+> 프로젝트 형태의 퍼블릭 레포지토리만 나열합니다. 세미나 또는 특강에서 사용된 레포지토리는 나열하지 않습니다.
+
+### 세소리
+
+- [sesori-v2](https://github.com/nullforu/sesori-v2) - 세소리 프로젝트 (2026 v2)
+
+### Null4U 홈페이지/홍보 사이트
+
+- [homepage](https://github.com/nullforu/homepage) - Null4U 공식 홈페이지 (풀스택 통합)
+- [promotion](https://github.com/nullforu/promotion) - Null4U 홍보용 페이지 (프론트엔드)
+- [serverless-iac](https://github.com/nullforu/serverless-iac) - Null4U 홍보용 페이지 (서버리스 백엔드 + 인프라)
+
+### SMCTF
+
+- [smctf](https://github.com/nullforu/smctf) - SMCTF 플랫폼 백엔드
+- [container-provisioner-k8s](https://github.com/nullforu/container-provisioner-k8s) - SMCTF 스택 프로비저너
+- [smctfe](https://github.com/nullforu/smctfe) - SMCTF 플랫폼 프론트엔드
+- [smctf-infra](https://github.com/nullforu/smctf-infra) - SMCTF 플랫폼 인프라(AWS Terraform + Kubernetes)
+- [smctf-docs](https://github.com/nullforu/smctf-docs) - SMCTF 문서
+- [smctfe-svelte](https://github.com/nullforu/smctfe-svelte) - SMCTF 플랫폼 프론트엔드 (Deprecated)
+
+### Reference/Misc
+
+- [docs](https://github.com/nullforu/docs) - 동아리 참고용 문서
+- [docker-image-builder](https://github.com/nullforu/docker-image-builder) - Docker 이미지 빌더
+</details>
+
