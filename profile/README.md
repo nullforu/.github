@@ -75,5 +75,6 @@ Organizations > 오른쪽 사이드바에서 아래와 같이 변경해주세요
 
 - [docs](https://github.com/nullforu/docs) - 동아리 참고용 문서
 - [docker-image-builder](https://github.com/nullforu/docker-image-builder) - Docker 이미지 빌더
+- [meal-service](https://github.com/nullforu/meal-service) - 세명컴퓨터고등학교 공식 네이버 밴드 급식봇(급식 알리미) 소스코드
 </details>
 
